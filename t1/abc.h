@@ -10,4 +10,5 @@ public:
 	
 	int sum(int a, int b);
 	int getResult() { return m_result; };
+	int setResult(int a) { m_result = a; };
 }
