@@ -9,4 +9,5 @@ public:
 	~TestABC(){}
 	
 	int sum(int a, int b);
+	int getResult(int result) { return m_result; };
 }
