@@ -4,6 +4,7 @@ class TestABC {
 private:
 	uint m_result = 0;
 	uint m_result2 = 1;
+	uint m_result3 = 2;
 	
 public:
 	TestABC(){}
